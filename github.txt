@@ -1,0 +1,6 @@
+*****Cách dùng Github
+	1. vào folder chuột phải chọn git bash
+	2. git clone + (link github)
+
+	+ Thêm file mới kèm chú thích
+		git commit -m ""
