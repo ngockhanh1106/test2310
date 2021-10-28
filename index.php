@@ -9,5 +9,6 @@
 <body>
     clm cuoc doi
     change Khanh
+    <a href="./linhtinh/phhp.php">click</a>
 </body>
 </html>
